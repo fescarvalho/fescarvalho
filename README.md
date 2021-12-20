@@ -2,6 +2,7 @@
 
 
 - 📫 Contate-me pelo email: fernando_scarvalho@hotmail.com
+- ⭐ Acesse meu site: https://fescarvalho.netlify.app/
 
 <div align="center">
   <a href="https://github.com/fescarvalho">
