@@ -4,6 +4,13 @@
 - 📫 Contate-me pelo email: fernando_scarvalho@hotmail.com
 - ⭐ Acesse meu site: https://fescarv.tech
 
+
+ <div> 
+  <a href="https://instagram.com/fescarv" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:fernando_scarvalho@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/fernando-carvalho-08427a193/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://api.whatsapp.com/send?phone=5522998631807&text=Ola%20Fernando!!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+
 <div align="center">
   <a href="https://github.com/fescarvalho">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fescarvalho&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
@@ -25,10 +32,7 @@
    ##
   
   <div> 
-  <a href="https://instagram.com/fescarv" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:fernando_scarvalho@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/fernando-carvalho-08427a193/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://api.whatsapp.com/send?phone=5522998631807&text=Ola%20Fernando!!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+  
     
   ![Snake animation](https://github.com/fescarvalho/fescarvalho/blob/output/github-contribution-grid-snake.svg)
  
