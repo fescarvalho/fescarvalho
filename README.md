@@ -3,6 +3,7 @@
 
 - 📫 Contate-me pelo email: fernando_scarvalho@hotmail.com
 - ⭐ Acesse meu site: https://fescarv.tech
+- 🎯 Meu Linkedin: https://www.linkedin.com/in/fecarvalhodev
 
 
  <div> 
