@@ -7,7 +7,9 @@
 - 🎯 My Linkedin: https://www.linkedin.com/in/fecarvalhodev
 
 ----
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> About Me
+## <img width="30" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> About Me
+
+
 
 ```javascript
 const Fernando {
@@ -36,12 +38,12 @@ const Fernando {
 ----
 ## 📈 GitHub Statistics
 
-<a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fescarvalho&theme=dracula&hide_langs_below=1" />
+<a href="https://github.com/fescavalho">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fescarvalho&theme=midnight-purple&hide_langs_below=1" />
 </a>
 
 <a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=fescarvalho&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=fescarvalho&show_icons=true&theme=midnight-purple&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
 
 ----
