@@ -1,6 +1,6 @@
 ## Hi! I am {Fernando Carvalho}👋
 
-  <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+  <img align="right" width="300" src="https://camo.githubusercontent.com/d8a7b68700e343761bb04aee7c848aade21227cdae9e9ce9f1dac0d7c88df23d/68747470733a2f2f63646e612e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3033352f3639332f3635362f6f726967696e616c2f6777796e6574682d62616c7563696f2d68656c6c6f2d776f726c642e6769663f31363135363432383737" />
 
 - 📫 Contact me by email: fernando_scarvalho@hotmail.com
 - ⭐ Visit my website: https://fescarv.com
@@ -22,9 +22,9 @@ const Fernando {
 ```
 
 ----
-
 ## 🚀 Skills Tech
 <div align="left" >
+
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
