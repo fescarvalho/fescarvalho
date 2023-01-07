@@ -39,19 +39,18 @@ const Fernando {
 ----
 ## 📈 GitHub Statistics
 
-<a href="https://github.com/fescavalho">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fescarvalho&theme=great-gatsby&hide_langs_below=1" />
-</a>
+<div align="center">
+  <a href="https://github.com/VINICIUSNUNES137">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=fescarvalho&show_icons=true&theme=great-gatsby"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fescarvalho&layout=compact&langs_count=7&theme=great-gatsby"/>
+</div>
 
-<a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=fescarvalho&show_icons=true&theme=great-gatsby&line_height=27" alt="Fernando Carvalho github stats"/>
-</a>
 
 ----
 ## ⭐ Social Media
 
   <a href="https://instagram.com/fescarv" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:fernando_scarvalho@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:fernando_scarvalho@hotmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/fernando-carvalho-08427a193/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href="https://twitter.com/_fescarv" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
