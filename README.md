@@ -41,8 +41,8 @@ const Fernando {
 
 <div align="center">
   <a href="https://github.com/fescarvalho">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fescarvalho&show_icons=true&theme=great-gatsby"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fescarvalho&layout=compact&langs_count=7&theme=great-gatsby"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fescarvalho&show_icons=true&theme=chartreuse-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fescarvalho&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
 
 
