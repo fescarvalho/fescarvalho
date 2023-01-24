@@ -16,7 +16,7 @@ const Fernando {
   name = "Fernando Carvalho";
   area = "Front End";
   primarySkillset = ["Proactivity", "Communication", "Relationship Skills", "Confidence", "Teamwork"];
-  languages = ["JavaScript", "React", "TypeScript", "Node", "React"];
+  languages = ["JavaScript", "React", "TypeScript", "Node", "React", "SQL];
 
 }
 ```
