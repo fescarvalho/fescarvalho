@@ -122,8 +122,7 @@ _Hello, this is **Fernando Carvalho**. [Software Developer - (Full Stack)](https
  
 - 📫 Contact me by email: fernando_scarvalho@hotmail.com
 - ⭐ Visit my website: https://fescarv.com
-- 🎯 My Linkedin: https://www.linkedin.com/in/fecarvalhodev
- 
+
  </div>
  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=132239&height=120&section=footer"/>
