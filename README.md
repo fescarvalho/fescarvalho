@@ -16,34 +16,92 @@
 </div>
 
 
- 
-<div align="center">
- <br />
+  <br />
   <br />
  
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
- <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQL"/></code>
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="Sass"/></code>
- <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" alt="Tailwind"/></code>
-  <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker"/>
- </code>
+<div align="center">
+<h2 align='center'><i>Languages and Tools</i></h2>
 
+
+ 
+<table width="100">
+<tr>
+    <td align='center' width="190">
+         <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="60">
+    </td>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
+    </td>
+    <td align='center' width="190">
+         <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
+    </td>
+     <td align='center' width="190">
+            <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
+    </td>
+    <td align='center'  width="190">
+        <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
+    </td>
+</tr>
+ <tr>
+    <td align='center' width="190">
+         <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg">
+    </td>
+    <td align='center' width="190">
+               <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg">
+    </td>
+    <td align='center' width="190">
+              <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg">
+    </td>
+     <td align='center' width="190">
+            <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
+    </td>
+    <td align='center'  width="190">
+        <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg">
+    </td>
+</tr>
+  <tr>
+    <td align='center' width="190">
+         <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg">
+    </td>
+    <td align='center' width="190">
+               <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg">
+    </td>
+    <td align='center' width="190">
+              <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
+    </td>
+     <td align='center' width="190">
+            <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg">
+    </td>
+    <td align='center'  width="190">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
+    </td>
+</tr>
+  <tr>
+    <td align='center' width="190"> </td>
+    <td align='center' width="190">
+           <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg">
+    </td>
+      <td align='center' width="190"> </td>
+     <td align='center' width="190">
+              <img src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg">
+    </td>
+       <td align='center' width="190"> </td>
+</tr>
+
+    
+</table>
 </div>
 
 
 
 
 
-
-<div align="center" >
  <br />
   <br />
  
+<div align="center" >
+ <h2 align='center'><i>Social Medias</i></h2>
+
 
   <a href="https://instagram.com/fescarv" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:fernando_scarvalho@hotmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
