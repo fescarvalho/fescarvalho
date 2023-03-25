@@ -1,13 +1,32 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=132239&height=120&section=header"/>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&size=35&pause=1000&color=64D7FB&width=1000&center=true&lines=Hi%2C+my+name+is+Fernando+Carvalho.;I+am+from+Brazil.;I+am+a+Systems+Analyst.;Feel+free+to+see+my+projects.;Welcome!)](https://git.io/typing-svg)
 
+
+_Hello, this is **Fernando Carvalho**. [Software Developer - (Full Stack)](https://www.linkedin.com/in/fecarvalhodev) . You can see my open source works below. I love coding in JavaScript and Node. I'm a friendly guy, you can connect with me on social media, I'd love to have you in my life._
+ <br />
+  <br />
+ <h2 align='center'><i>Social Media Handles</i></h3>
+ 
+
+ <div align="center">
+  <a href="https://instagram.com/fescarv" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" width="60" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/fernando-carvalho-08427a193/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" width="60" target="_blank"></a> 
+   <a href="https://twitter.com/_fescarv" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409937.png" width="60" target="_blank"></a> 
+ </div>
+ 
+   <br />
+  <br />
 <div align="center" >
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&size=35&pause=1000&color=64D7FB&width=1000&center=true&lines=Hi%2C+my+name+is+Fernando+Carvalho.;I+am+from+Brazil.;I+am+a+Systems+Analyst.;Feel+free+to+see+my+projects.;Welcome!)](https://git.io/typing-svg)
+ <h2 align='center'><i><a href="https://github.com/fescarvalho/github-readme-activity-graph">Activity Graph 📈</i></h2>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=fescarvalho&theme=react-dark&point=132239&bg-color=132239&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
+ 
+  <br />
+
 
 <div align="center">
   <a href="https://github.com/fescarvalho">
@@ -94,21 +113,9 @@
 
 
 
-
-
  <br />
   <br />
  
-<div align="center" >
- <h2 align='center'><i>Social Medias</i></h2>
-
-
-  <a href="https://instagram.com/fescarv" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:fernando_scarvalho@hotmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/fernando-carvalho-08427a193/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <a href="https://twitter.com/_fescarv" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-</div>
 
 <div align="left" >
  <br />
