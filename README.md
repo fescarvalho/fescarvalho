@@ -30,8 +30,8 @@ _Hello, this is **Fernando Carvalho**. [Software Developer - (Full Stack)](https
 
 <div align="center">
   <a href="https://github.com/fescarvalho">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fescarvalho&show_icons=true&theme=chartreuse-dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fescarvalho&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fescarvalho&show_icons=true&theme=chartreuse-dark&bg_color=0D1117&border_color=2EBEEC&title_color=2EBEEC"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fescarvalho&layout=compact&langs_count=7&theme=chartreuse-dark&bg_color=0D1117&border_color=2EBEEC&title_color=2EBEEC"/>
 </div>
 
 
