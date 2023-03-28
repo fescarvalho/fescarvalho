@@ -8,7 +8,7 @@
 
  <img  align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=fescarvalho&show_icons=true&theme=chartreuse-dark&bg_color=0D1117&border_color=2EBEEC&title_color=2EBEEC" width="400">
 
-_Hello, this is **Fernando Carvalho**. [Software Developer - (Full Stack)](https://www.linkedin.com/in/fecarvalhodev) . You can see my open source works below. I love coding in JavaScript and Node. I'm a friendly guy, you can connect with me on social media, I'd love to have you in my life. I'm currently studying focused on backend at [Cubos Academy](https://cubos.academy). I am looking for opportunities, feel free to contact me by  fernando_scarvalho@hotmail.com_
+_Hello, this is **Fernando Carvalho**. [Software Developer - (Full Stack)](https://www.linkedin.com/in/fecarvalhodev) . You can see my open source works below. I love coding in JavaScript and Node.I'm currently studying focused on backend at [Cubos Academy](https://cubos.academy). I am looking for opportunities, feel free to contact me by  fernando_scarvalho@hotmail.com. I'm a friendly guy, you can connect with me on social media, I'd love to have you in my life._
  <br />
   <br />
  <h2 align='center'><i>Social Media </i></h3>
