@@ -11,12 +11,13 @@
 _Hello, this is **Fernando Carvalho**. [Software Developer - (Full Stack)](https://www.linkedin.com/in/fecarvalhodev) . You can see my open source works below. I love coding in JavaScript and Node.I'm currently studying focused on backend at [Cubos Academy](https://cubos.academy). I am looking for opportunities, feel free to contact me by  fernando_scarvalho@hotmail.com. I'm a friendly guy, you can connect with me on social media, I'd love to have you in my life._
  <br />
   <br />
+   <br />
  <h2 align='center'><i>Social Media </i></h3>
  
 
  <div align="center">
   <a href="https://instagram.com/fescarv" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" width="60" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/fernando-carvalho-08427a193/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" width="60" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/fecarvalhodev/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" width="60" target="_blank"></a> 
    <a href="https://twitter.com/_fescarv" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409937.png" width="60" target="_blank"></a> 
  </div>
  
