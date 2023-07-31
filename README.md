@@ -28,9 +28,9 @@ _Hello, this is **Fernando Carvalho**. [Software Developer - (Full Stack)](https
  
  <h2 align='center'><i><a href="https://github.com/fescarvalho/github-readme-activity-graph">Activity Graph 📈</i></h2>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=fescarvalho&theme=react-dark&point=132239&bg-color=132239&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fescarvalho&theme=react-dark&point=132239&bg-color=132239&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 </div>
- 
 
 
   <br />
