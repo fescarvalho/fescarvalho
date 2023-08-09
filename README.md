@@ -18,10 +18,9 @@ _Hello, this is **Fernando Carvalho**. [Software Developer - (Full Stack)](https
  <div align="center">
   <a href="https://instagram.com/fescarv" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" width="60" target="_blank"></a>
   <a href="https://www.linkedin.com/in/fecarvalhodev/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" width="60" target="_blank"></a> 
-   <a href="https://twitter.com/_fescarv" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409937.png" width="60" target="_blank"></a> 
+   <a href="https://twitter.com/_fescarv" target="_blank"><img src="https://seeklogo.com/images/T/twitter-x-logo-101C7D2420-seeklogo.com.png?v=638258862800000000" width="60" target="_blank"></a> 
  </div>
- 
- 
+
    <br />
   <br />
 <div align="center" >
